@@ -1,7 +1,8 @@
 export default function Footer() {
     return (
         <footer>
-            <p>Parágrafo do footer</p>
+            <p>Deploy do teste Vite + React realizado com sucesso! [TEST]</p>
+            <div></div>
         </footer>
     )
 }
